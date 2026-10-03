@@ -10,3 +10,4 @@
 7 Connection Status — Shows whether the application is successfully connected to Ollama.
 8 Clean & Responsive UI — Simple, modern, and user-friendly interface.
 9 Local AI Processing — Uses Ollama to run the model locally rather than relying on an external AI API.
+
